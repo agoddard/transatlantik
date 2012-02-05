@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    haversine (0.3.0)
+    poscvt (0.1)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  haversine
+  poscvt
